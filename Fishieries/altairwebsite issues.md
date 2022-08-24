@@ -1,5 +1,17 @@
 # Resources
 
+### [Boats Schedule](http://192.168.11.24:90/WebPages/management/Dashboard.aspx)
+
+![](./images/dashboard-brand.jpeg)
+
+### [Transporter list advanced search](http://192.168.11.24:90/WebPages/Transporters/List.aspx)
+
+![](./images/transporter-list-search.jpeg)
+
+### [Transporter Details profile]
+
+![](./images/transporter%20details-vio.jpeg)
+
 ### [Boats Schedule](http://192.168.11.24:90/WebPages/Transporters/TransporterSchedule.aspx?id=1b06da9c-2d22-ed11-8137-00155d0bcd0b)
 
 ![](./images/transporter%20sch.jpeg)
